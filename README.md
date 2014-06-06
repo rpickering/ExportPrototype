@@ -7,14 +7,14 @@ This Adobe Illustrator script is intended as a tool for interaction designers cr
 
 ###To install
 
-• Move ExportPrototype.jsx to Applications > Adobe Illustrator CS6 > Presets > en_GB > Scripts
+• Move ExportPrototype.jsx to Applications > Adobe Illustrator CS6 > Presets > en_GB > Scripts<br />
 • Restart Illustrator
 
 ###To use
 
-• Make sure your AI file is saved into it's own folder, to keep things tidy
-• Create as many layers as you need individual divs, and name them appropriately. The layer’s name becomes the class for each div.
-• Save your file first, then go to File > Scripts > ExportPrototype
+• Make sure your AI file is saved into it's own folder, to keep things tidy<br />
+• Create as many layers as you need individual divs, and name them appropriately. The layer’s name becomes the class for each div.<br />
+• Save your file first, then go to File > Scripts > ExportPrototype<br />
 • The script will spit out files into the folder containing the current file - you can now open these in your favourite code editor and get prototyping!
 
 ###Notes, support and known issues
@@ -23,11 +23,11 @@ This script has so far been tested in Adobe Illustrator CS6 (mac) only. There is
 
 The script currently does not cater for the following (but hopefully will in due course):
 
-• Nested divs
-• Spaces in layer names
-• Custom IDs from layer names 
-• Retina images
-• A persistent ‘plugin’ UI
+• Nested divs<br />
+• Spaces in layer names<br />
+• Custom IDs from layer names <br />
+• Retina images<br />
+• A persistent ‘plugin’ UI<br />
 • Further export options
 
 ###Get in touch!
